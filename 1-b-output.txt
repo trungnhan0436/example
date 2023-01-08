@@ -1,0 +1,14 @@
+// Yêu cầu: Từ giao diện đó, mong muốn lấy những thông tin cần thiết
+
+// Kết quả cuối cùng:
+[
+    'image'        => 'https://giaxe.2banh.vn/cache/dataupload/products/slides/520_368_b18c91747fae2ae76fa618c2c357baea.jpg',
+    'link'         => 'https://giaxe.2banh.vn/yamaha/exciter-155.html',
+    'bike_name'    => 'Exciter 2023 bản Cao cấp - 155 cc',
+    'price'        => '50590000',
+    'seller_name'  => 'Nguyễn Văn A',
+    'tel'          => '0900000000',
+    'model'        => 'YAMAHA Yamaha Exciter 150 Camo',
+    'year'         => '2012',
+    'displacement' => '150cc',
+]
